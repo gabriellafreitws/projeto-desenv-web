@@ -1,3 +1,4 @@
-# projeto-desenv-web
+# ✨ ANOTAÇÕES COURSERA UX DESIGN ✨
 
-https://gabriellafreitws.github.io/projeto-desenv-web/
+> Projeto da cadeira de desenvolvimento web <br>
+Link para visualização: https://gabriellafreitws.github.io/projeto-desenv-web/ 💗
